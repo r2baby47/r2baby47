@@ -4,9 +4,7 @@ I do QA / Test Automation things
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=r2baby47&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/website-up-brightgreen?style=flat" />
-  </a>
+
   <a href="[https://www.linkedin.com/in/porntep-toaditep-848b933a9/">
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
