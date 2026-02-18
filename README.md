@@ -31,19 +31,8 @@
 - ทำ Test case + Test execution
 - ทำ Cypress commands ให้ reuse ได้
 
-</td>
-<td width="50%">
-
-### 📌 What I’m Building
-- Digibank testing portfolio
-- E2E flow: login → transaction → report
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=r2baby47&show_icons=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2baby47&layout=compact" height="160"/>
