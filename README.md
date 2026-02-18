@@ -45,5 +45,5 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=r2baby47&show_icons=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2baby47&layout=compact" height="160"/>
