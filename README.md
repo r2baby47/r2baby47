@@ -1,38 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Porntep%20-%20QA%20Automation&fontAlign=50&fontAlignY=35&desc=Cypress%20%7C%20Robot%20Framework%20%7C%20API%20Testing&descAlign=50&descAlignY=60" />
-</p>
+# 👋 Hello there! I'm Porntep
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/porntep-toaditep-848b933a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
+I do QA / Test Automation things
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=r2baby47&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/website-up-brightgreen?style=flat" />
+  </a>
+  <a href="[https://www.linkedin.com/in/porntep-toaditep-848b933a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:porntepr2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/r2baby47?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-View-111?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-## 👋 About Me
-- QA / Test Automation
-- สนใจ Cypress, Robot Framework, API Testing, CI/CD
-
----
-
-## 🧱 Dashboard
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### ✅ Current Focus
-- ทำ Test case + Test execution
-- ทำ Cypress commands ให้ reuse ได้
+- 🧪 I’m currently testing: **Digibank web**
+- 🤖 Automation: **Cypress / Robot Framework**
+- 🔍 Interested in: **API testing / CI-CD / Load test**
+- 💬 Ask me about: **test case, bug report, E2E**
+- 🤝 Connect: **LinkedIn**
+
+<td width="45%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:7F00FF&height=120&section=header&text=Automation+Mode+ON&fontSize=30&fontColor=ffffff" />
+
+
+</td>
+
 
 </tr>
 </table>
 
 ---
 
+## Favorite Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,postman,git,githubactions,mysql" />
+  <img src="https://skillicons.dev/icons?i=cypress&theme=light" height="48"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-000?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+</p>
+
+</p>
