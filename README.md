@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/porntep-toaditep-848b933a9/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:porntepr2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/r2baby47?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-View-111?logo=github&logoColor=white">
   </a>
 </p>
